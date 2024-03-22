@@ -23,7 +23,7 @@
                             heart of Riyadh. It embodies a unique vision in the realm of human resource management and event organization, offering
                             integrated and innovative solutions to meet our clients› needs.
                         </p>
-                        <a href="about.html"
+                        <a href="/about-us"
                             class="button inline-block rounded-[50px] border-2 border-black bg-[#F6F6EB] text-black after:border-colorOrangyRed after:bg-colorOrangyRed hover:text-white">Explore
                             About Us</a>
                     </div>
