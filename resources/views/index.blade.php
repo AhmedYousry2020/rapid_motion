@@ -63,7 +63,7 @@
                                     <img src="assets/img/th-1/service-icon-orange-1.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </div>
                                 <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                    <a href="/services" class="hover:text-colorOrangyRed">
                                         Event Management
                                     </a>
                                 </h3>
@@ -72,7 +72,7 @@
                                     Hospitality Management & Crew
                                 </p> --}}
 
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                {{-- <a href="/services" class="relative inline-block h-[30px] w-[30px] duration-300">
                                     <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
                                     <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </a> --}}
@@ -85,7 +85,7 @@
                                     <img src="assets/img/th-1/service-icon-orange-2.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </div>
                                 <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                    <a href="/services" class="hover:text-colorOrangyRed">
                                         Hospitality Management & Crew
                                     </a>
                                 </h3>
@@ -95,7 +95,7 @@
                                     who are starting out.
                                 </p> --}}
 {{--
-                                <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                <a href="/services" class="relative inline-block h-[30px] w-[30px] duration-300">
                                     <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
                                     <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </a> --}}
@@ -110,7 +110,7 @@
                                     <img src="assets/img/th-1/service-icon-orange-3.svg" alt="service-icon-orange-3" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </div>
                                 <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                    <a href="/services" class="hover:text-colorOrangyRed">
                                         Cleaning solutions
                                     </a>
                                 </h3>
@@ -120,7 +120,7 @@
                                     who are starting out.
                                 </p> --}}
 
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                {{-- <a href="/services" class="relative inline-block h-[30px] w-[30px] duration-300">
                                     <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
                                     <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </a> --}}
@@ -133,7 +133,7 @@
                                     <img src="assets/img/th-1/service-icon-orange-8.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </div>
                                 <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                    <a href="/services" class="hover:text-colorOrangyRed">
                                         Event staffing and recruitment
                                     </a>
                                 </h3>
@@ -143,7 +143,7 @@
                                     visual information.
                                 </p> --}}
 
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                {{-- <a href="/services" class="relative inline-block h-[30px] w-[30px] duration-300">
                                     <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
                                     <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </a> --}}
@@ -154,7 +154,7 @@
                                     <img src="assets/img/th-1/service-icon-orange-6.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </div>
                                 <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                    <a href="/services" class="hover:text-colorOrangyRed">
                                         Traffic Management
                                     </a>
                                 </h3>
@@ -164,7 +164,7 @@
                                     visual information.
                                 </p> --}}
 
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                {{-- <a href="/services" class="relative inline-block h-[30px] w-[30px] duration-300">
                                     <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
                                     <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
                                 </a> --}}
