@@ -41,6 +41,143 @@
             <!-- Section Spacer -->
             </section>
             <!--...::: Hero Section End :::... -->
+              <!-- our services -->
+              <section id="section-service">
+                <!-- Section Spacer -->
+                <div class="pb-20 xl:pb-[150px] py-20 xl:py-[130px]">
+                    <!-- Section Container -->
+                    <div class="global-container">
+                        <!-- Section Content Block -->
+                        <div class="mb-10 text-center lg:mb-16 xl:mb-20 jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                            <div class="mx-auto max-w-md lg:max-w-xl xl:max-w-[950px]">
+                                <h2>Our Services</h2>
+                            </div>
+                        </div>
+                        <!-- Section Content Block -->
+                        <!-- Service List -->
+                        <ul class="grid grid-cols-1 gap-[2px] overflow-hidden rounded-[10px] border-2 border-black bg-black sm:grid-cols-2 lg:grid-cols-4 jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                            <!-- Service Item -->
+                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
+                                <div class="relative mb-9 h-[70px] w-[70px]">
+                                    <img src="assets/img/th-1/service-icon-black-1.svg" alt="service-icon-black-1" width="70" height="70">
+                                    <img src="assets/img/th-1/service-icon-orange-1.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </div>
+                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
+                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                        Event Management
+                                    </a>
+                                </h3>
+{{--
+                                <p class="mb-12 duration-300 group-hover:text-white">
+                                    Hospitality Management & Crew
+                                </p> --}}
+
+                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
+                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </a> --}}
+                            </li>
+                            <!-- Service Item -->
+                            <!-- Service Item -->
+                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
+                                <div class="relative mb-9 h-[70px] w-[70px]">
+                                    <img src="assets/img/th-1/service-icon-black-2.svg" alt="service-icon-black-2" width="70" height="70">
+                                    <img src="assets/img/th-1/service-icon-orange-2.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </div>
+                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
+                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                        Hospitality Management & Crew
+                                    </a>
+                                </h3>
+
+                                {{-- <p class="mb-12 duration-300 group-hover:text-white">
+                                    This is an excellent option for people &amp; small businesses
+                                    who are starting out.
+                                </p> --}}
+{{--
+                                <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
+                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </a> --}}
+                                <!-- Features Item -->
+                                <!-- Features Item -->
+                            </li>
+                            <!-- Service Item -->
+                            <!-- Service Item -->
+                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
+                                <div class="relative mb-9 h-[70px] w-[70px]">
+                                    <img src="assets/img/th-1/service-icon-black-3.svg" alt="service-icon-black-3" width="70" height="70">
+                                    <img src="assets/img/th-1/service-icon-orange-3.svg" alt="service-icon-orange-3" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </div>
+                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
+                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                        Cleaning solutions
+                                    </a>
+                                </h3>
+
+                                {{-- <p class="mb-12 duration-300 group-hover:text-white">
+                                    This is an excellent option for people &amp; small businesses
+                                    who are starting out.
+                                </p> --}}
+
+                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
+                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </a> --}}
+                            </li>
+                            <!-- Service Item -->
+                                                       <!-- Service Item -->
+                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
+                                <div class="relative mb-9 h-[70px] w-[70px]">
+                                    <img src="assets/img/th-1/service-icon-black-8.svg" alt="service-icon-black-8" width="70" height="70">
+                                    <img src="assets/img/th-1/service-icon-orange-8.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </div>
+                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
+                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                        Event staffing and recruitment
+                                    </a>
+                                </h3>
+{{--
+                                <p class="mb-12 duration-300 group-hover:text-white">
+                                    Computer vision services use AI to interpret and process
+                                    visual information.
+                                </p> --}}
+
+                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
+                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </a> --}}
+                            </li>
+                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
+                                <div class="relative mb-9 h-[70px] w-[70px]">
+                                    <img src="assets/img/th-1/service-icon-black-6.svg" alt="service-icon-black-8" width="70" height="70">
+                                    <img src="assets/img/th-1/service-icon-orange-6.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </div>
+                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
+                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
+                                        Traffic Management
+                                    </a>
+                                </h3>
+{{--
+                                <p class="mb-12 duration-300 group-hover:text-white">
+                                    Computer vision services use AI to interpret and process
+                                    visual information.
+                                </p> --}}
+
+                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
+                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
+                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
+                                </a> --}}
+                            </li>
+                            <!-- Service Item -->
+                        </ul>
+                        <!-- Service List -->
+                    </div>
+                    <!-- Section Container -->
+                </div>
+                <!-- Section Spacer -->
+            </section>
+            <!-- end servcies -->
             <!-- about info -->
             <div class="py-20 xl:py-[130px]">
                 <!-- Section Container -->
@@ -256,143 +393,7 @@ rate</span>
             </section>
             <!-- end core value -->
 
-            <!-- our services -->
-            <section id="section-service">
-                <!-- Section Spacer -->
-                <div class="pb-20 xl:pb-[150px]">
-                    <!-- Section Container -->
-                    <div class="global-container">
-                        <!-- Section Content Block -->
-                        <div class="mb-10 text-center lg:mb-16 xl:mb-20 jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                            <div class="mx-auto max-w-md lg:max-w-xl xl:max-w-[950px]">
-                                <h2>Our Services</h2>
-                            </div>
-                        </div>
-                        <!-- Section Content Block -->
-                        <!-- Service List -->
-                        <ul class="grid grid-cols-1 gap-[2px] overflow-hidden rounded-[10px] border-2 border-black bg-black sm:grid-cols-2 lg:grid-cols-4 jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                            <!-- Service Item -->
-                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
-                                <div class="relative mb-9 h-[70px] w-[70px]">
-                                    <img src="assets/img/th-1/service-icon-black-1.svg" alt="service-icon-black-1" width="70" height="70">
-                                    <img src="assets/img/th-1/service-icon-orange-1.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </div>
-                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
-                                        Event Management
-                                    </a>
-                                </h3>
-{{--
-                                <p class="mb-12 duration-300 group-hover:text-white">
-                                    Hospitality Management & Crew
-                                </p> --}}
 
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
-                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
-                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </a> --}}
-                            </li>
-                            <!-- Service Item -->
-                            <!-- Service Item -->
-                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
-                                <div class="relative mb-9 h-[70px] w-[70px]">
-                                    <img src="assets/img/th-1/service-icon-black-2.svg" alt="service-icon-black-2" width="70" height="70">
-                                    <img src="assets/img/th-1/service-icon-orange-2.svg" alt="service-icon-orange-1" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </div>
-                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
-                                        Hospitality Management & Crew
-                                    </a>
-                                </h3>
-
-                                {{-- <p class="mb-12 duration-300 group-hover:text-white">
-                                    This is an excellent option for people &amp; small businesses
-                                    who are starting out.
-                                </p> --}}
-{{--
-                                <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
-                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
-                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </a> --}}
-                                <!-- Features Item -->
-                                <!-- Features Item -->
-                            </li>
-                            <!-- Service Item -->
-                            <!-- Service Item -->
-                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
-                                <div class="relative mb-9 h-[70px] w-[70px]">
-                                    <img src="assets/img/th-1/service-icon-black-3.svg" alt="service-icon-black-3" width="70" height="70">
-                                    <img src="assets/img/th-1/service-icon-orange-3.svg" alt="service-icon-orange-3" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </div>
-                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
-                                        Cleaning solutions
-                                    </a>
-                                </h3>
-
-                                {{-- <p class="mb-12 duration-300 group-hover:text-white">
-                                    This is an excellent option for people &amp; small businesses
-                                    who are starting out.
-                                </p> --}}
-
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
-                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
-                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </a> --}}
-                            </li>
-                            <!-- Service Item -->
-                                                       <!-- Service Item -->
-                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
-                                <div class="relative mb-9 h-[70px] w-[70px]">
-                                    <img src="assets/img/th-1/service-icon-black-8.svg" alt="service-icon-black-8" width="70" height="70">
-                                    <img src="assets/img/th-1/service-icon-orange-8.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </div>
-                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
-                                        Event staffing and recruitment
-                                    </a>
-                                </h3>
-{{--
-                                <p class="mb-12 duration-300 group-hover:text-white">
-                                    Computer vision services use AI to interpret and process
-                                    visual information.
-                                </p> --}}
-
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
-                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
-                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </a> --}}
-                            </li>
-                            <li class="group bg-white p-[30px] transition-all duration-300 ease-in-out hover:bg-black">
-                                <div class="relative mb-9 h-[70px] w-[70px]">
-                                    <img src="assets/img/th-1/service-icon-black-6.svg" alt="service-icon-black-8" width="70" height="70">
-                                    <img src="assets/img/th-1/service-icon-orange-6.svg" alt="service-icon-orange-8" width="70" height="70" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </div>
-                                <h3 class="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-                                    <a href="service-details.html" class="hover:text-colorOrangyRed">
-                                        Traffic Management
-                                    </a>
-                                </h3>
-{{--
-                                <p class="mb-12 duration-300 group-hover:text-white">
-                                    Computer vision services use AI to interpret and process
-                                    visual information.
-                                </p> --}}
-
-                                {{-- <a href="service-details.html" class="relative inline-block h-[30px] w-[30px] duration-300">
-                                    <img src="assets/img/th-1/arrow-right-black.svg" alt="arrow-right-black" width="30" height="30">
-                                    <img src="assets/img/th-1/arrow-right-orange.svg" alt="arrow-right-black" width="30" height="30" class="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100">
-                                </a> --}}
-                            </li>
-                            <!-- Service Item -->
-                        </ul>
-                        <!-- Service List -->
-                    </div>
-                    <!-- Section Container -->
-                </div>
-                <!-- Section Spacer -->
-            </section>
-            <!-- end servcies -->
             <section class="faq-section">
                 <!-- Section Spacer -->
                 <div class="pb-20 xl:pb-[130px]">
@@ -944,46 +945,26 @@ exchange within the company.
                 <!-- Section Spacer -->
             </section>
             <!-- end galary -->
-            <section id="cta-section">
+            {{-- <section id="cta-section">
                 <div class="global-container">
                     <div class="rounded-[10px] bg-colorGreen px-5 py-[60px] md:py-20 xl:py-[100px]">
                         <div class="swiper brand-slider jos swiper-initialized swiper-horizontal swiper-backface-hidden" data-jos_animation="fade" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
                             <!-- Additional required wrapper -->
                             <div class="swiper-wrapper" id="swiper-wrapper-a7b2167c9bd322a9" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-843px, 0px, 0px); transition-delay: 0ms;">
                                 <!-- Slides -->
-                                <div class="swiper-slide" role="group" aria-label="1 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-1.png" alt="brand-1" width="180" height="38" class="max-w-full">
+                                <div class="" role="group"  >
+                                    <img src="assets/img/th-1/2.png" alt="brand-1" width="180" height="38" class="max-w-full">
                                 </div>
-                                <div class="swiper-slide" role="group" aria-label="2 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-2.png" alt="brand-2" width="183" height="35" class="max-w-full">
+                                <div class="" role="group"  >
+                                    <img src="assets/img/th-1/4.png" alt="brand-2" width="183" height="35" class="max-w-full">
                                 </div>
-                                <div class="swiper-slide swiper-slide-prev" role="group" aria-label="3 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-3.png" alt="brand-3" width="172" height="35" class="max-w-full">
+                                <div class="" >
+                                    <img src="assets/img/th-1/5.png" alt="brand-3" width="172" height="35" class="max-w-full">
                                 </div>
-                                <div class="swiper-slide swiper-slide-active" role="group" aria-label="4 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-4.png" alt="brand-4" width="175" height="30" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide swiper-slide-next" role="group" aria-label="5 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-5.png" alt="brand-5" width="168" height="36" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide" role="group" aria-label="6 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-1.png" alt="brand-1" width="180" height="38" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide" role="group" aria-label="7 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-2.png" alt="brand-2" width="183" height="35" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide" role="group" aria-label="8 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-3.png" alt="brand-3" width="172" height="35" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide" role="group" aria-label="9 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-4.png" alt="brand-4" width="175" height="30" class="max-w-full">
-                                </div>
-                                <div class="swiper-slide" role="group" aria-label="10 / 10" style="width: 176px; margin-right: 105px;">
-                                    <img src="assets/img/th-1/brand-5.png" alt="brand-5" width="168" height="36" class="max-w-full">
-                                </div>
+
                             </div>
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
 @endsection
