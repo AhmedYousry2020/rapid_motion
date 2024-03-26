@@ -2688,6 +2688,10 @@ h5 {
   }
 }
 
+  .site-header img{
+    margin-left: -33px;
+    margin-top: 3px;
+   }
 .price-button {
   display: inline-block;
   border-radius: 50px;
