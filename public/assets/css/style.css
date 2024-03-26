@@ -2687,7 +2687,9 @@ h5 {
     max-width: 1332px;
   }
 }
-
+.site-menu-main li:hover {
+    color: rgb(254 51 10 / var(--tw-text-opacity));
+}
   .site-header img{
     margin-left: -33px;
     margin-top: 3px;
