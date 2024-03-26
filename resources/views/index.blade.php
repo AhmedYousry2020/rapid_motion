@@ -14,7 +14,7 @@
                     <div>
                         <h2
                             class="font-raleway text-5xl md:text-6xl lg:text-7xl xl:text-[100px] xxl:text-[120px]">
-                            RAPID MOTION</h2>
+                            The future of business</h2>
                     </div>
                     <!-- Section Content Block -->
                     <div class="jos flex flex-col gap-10 md:gap-[50px]">
