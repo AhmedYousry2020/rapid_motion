@@ -37,8 +37,11 @@ class SiteController extends Controller
 
    public function services()
    {
-
     return view('services');
+   }
+   public function clients()
+   {
+    return view('clients');
    }
 
 

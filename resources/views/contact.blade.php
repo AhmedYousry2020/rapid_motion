@@ -28,7 +28,7 @@
             <!-- Section Container -->
             <div class="global-container">
                 <div
-                    class="grid">
+                    class="grid grid-cols-1 gap-x-16 gap-y-10 md:grid-cols-2 xl:grid-cols-[minmax(0,_1fr)_1.1fr]">
                     <!-- Contact Left Block -->
                     <div class="order-2 flex flex-col md:order-1">
                         <!-- Section Content Block -->
@@ -132,7 +132,68 @@
                         </div>
                     </div>
                     <!-- Contact Left Block -->
+                    <div class="order-1 block rounded-lg bg-white px-[30px] py-[50px] shadow-[0_4px_60px_0_rgba(0,0,0,0.1)] md:order-2">
+                        <!-- Contact Form -->
+                        <form action="https://formspree.io/f/mlqvzkyx" method="post" class="flex flex-col gap-y-5">
+                            <!-- Form Group -->
+                            <div>
+                                <!-- Form Single Input -->
+                                <div class="flex flex-col gap-y-[10px]">
+                                    <label for="contact-name" class="text-lg font-bold leading-[1.6]">Enter your
+                                        name</label>
+                                    <input type="text" name="contact-name" id="contact-name" placeholder="Adam Smith" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
+                                </div>
+                                <!-- Form Single Input -->
+                            </div>
+                            <div>
+                                 <!-- Form Single Input -->
+                                 <div class="flex flex-col gap-y-[10px]">
+                                    <label for="contact-email" class="text-lg font-bold leading-[1.6]">Email
+                                        address</label>
+                                    <input type="email" name="contact-email" id="contact-email" placeholder="example@gmail.com" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
+                                </div>
+                                <!-- Form Single Input -->
+                            </div>
+                            <!-- Form Group -->
+                            <!-- Form Group -->
+                            <div>
+                                <!-- Form Single Input -->
+                                <div class="flex flex-col gap-y-[10px]">
+                                    <label for="contact-phone" class="text-lg font-bold leading-[1.6]">Phone
+                                        number</label>
+                                    <input type="tel" name="contact-phone" id="contact-phone" placeholder="(123) 456 - 7890" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
+                                </div>
+                                <!-- Form Single Input -->
 
+                            </div>
+                            <!-- Form Group -->
+                            <div>
+                                <!-- Form Single Input -->
+                                <div class="flex flex-col gap-y-[10px]">
+                                    <label for="contact-name" class="text-lg font-bold leading-[1.6]">Subject</label>
+                                    <input type="text" name="contact-name" id="contact-name" placeholder="Adam Smith" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
+                                </div>
+                                <!-- Form Single Input -->
+                            </div>
+                            <!-- Form Group -->
+                            <div class="grid grid-cols-1 gap-6">
+                                <!-- Form Single Input -->
+                                <div class="flex flex-col gap-y-[10px]">
+                                    <label for="contact-message" class="text-lg font-bold leading-[1.6]">Message</label>
+                                    <textarea name="contact-message" id="contact-message" class="min-h-[180px] rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" placeholder="Write your message here..." required="">                                            </textarea>
+                                </div>
+                                <!-- Form Single Input -->
+                            </div>
+
+                            <div>
+                                <button type="submit" class="button mt-10 rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white">
+                                    Send your message
+                                </button>
+                            </div>
+                            <!-- Form Group -->
+                        </form>
+                        <!-- Contact Form -->
+                    </div>
 
                 </div>
             </div>

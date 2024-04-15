@@ -31,7 +31,7 @@
 </head>
 
 <body>
-    <div class="page-wrapper relative z-[1] bg-[#F6F6EB]">
+    <div class="page-wrapper relative  bg-[#F6F6EB]">
         <!--...::: Header Start :::... -->
         <header class="site-header site-header--absolute is--white py-3" id="sticky-menu">
             <div class="global-container">
@@ -64,6 +64,11 @@
                                 </li>
                                 <li class="nav-item">
                                     <a href="/services" class="nav-link-item drop-trigger">Services
+                                        </a>
+
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/clients" class="nav-link-item drop-trigger">Clients
                                         </a>
 
                                 </li>
@@ -172,7 +177,7 @@ qualified team of human resources professionals.
                         <div class="flex flex-col gap-y-6">
                             <!-- Footer Title -->
                             <h4 class="text-[21px] font-semibold capitalize text-white">
-                                Utility pages
+                                Join Us!
                             </h4>
                             <!-- Footer Title -->
 

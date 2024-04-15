@@ -21,6 +21,7 @@ Route::controller(SiteController::class)->group(function(){
     Route::get('/contact','contact');
     Route::get('/about-us','about');
     Route::get('/services','services');
+    Route::get('/clients','clients');
     Route::get('/register','register');
     Route::post('/contact-us','contactUs');
 

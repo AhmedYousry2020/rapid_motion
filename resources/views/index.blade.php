@@ -862,11 +862,8 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-1.jpg" alt="portfolio-img-1" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">Natural language processing models to extract
-                                        insights</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
@@ -876,10 +873,8 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-2.jpg" alt="portfolio-img-2" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">Create an modern AI-powered educational platform</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
@@ -889,11 +884,8 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-3.jpg" alt="portfolio-img-3" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">Develop a content generation system that uses AI
-                                        system</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
@@ -903,10 +895,7 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-4.jpg" alt="portfolio-img-4" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">Implement a predictive maintenance system with AI</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
@@ -916,10 +905,7 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-5.jpg" alt="portfolio-img-5" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">Build an AI solution for precision agriculture</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
@@ -929,11 +915,7 @@ exchange within the company.
                                     <img src="assets/img/th-1/portfolio-img-6.jpg" alt="portfolio-img-6" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
-                                    <span class="flex-1">AI for large corporations and businesses across
-                                        industries</span>
-                                    <div class="h-8 w-8 lg:h-[45px] lg:w-[45px]">
-                                        <img src="assets/img/th-1/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right.svg" width="45" height="45">
-                                    </div>
+
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
