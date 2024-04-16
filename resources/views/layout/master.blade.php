@@ -31,7 +31,7 @@
 </head>
 
 <body>
-    <div class="page-wrapper relative  bg-[#F6F6EB]">
+    <div class="page-wrapper relative" style="background-color: white">
         <!--...::: Header Start :::... -->
         <header class="site-header site-header--absolute is--white py-3" id="sticky-menu">
             <div class="global-container">
