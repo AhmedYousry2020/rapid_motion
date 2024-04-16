@@ -225,7 +225,7 @@
                 <!-- Section Container -->
                 <div class="global-container">
                     <!-- Counter Scroll -->
-                    <ul class="grid grid-cols-1 gap-10 gap-y-5 text-center sm:grid-cols-2 sm:text-left lg:grid-cols-4">
+                    <ul class="grid grid-cols-1 gap-5 gap-y-6 text-center sm:grid-cols-2  lg:grid-cols-3">
                         <!-- Counter Items -->
                         <li class="jos" data-jos_delay="0.1" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                             <h3 class="text-3xl text-colorOrangyRed md:text-6xl lg:text-7xl xl:text-[80px]" data-module="countup">
@@ -241,6 +241,14 @@
                                 <span class="start-number" data-countup-number="95">20</span>+
                             </h3>
                             <span class="block text-lg font-normal text-black">Agencies Served</span>
+                        </li>
+                        <!-- Counter Items -->
+                           <!-- Counter Items -->
+                           <li class="jos" data-jos_delay="0.2" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                            <h3 class="text-3xl text-colorOrangyRed md:text-6xl lg:text-4xl xl:text-[80px]" data-module="countup">
+                                <span>5</span>+
+                            </h3>
+                            <span class="block text-lg font-normal text-black">Clients</span>
                         </li>
                         <!-- Counter Items -->
                         <!-- Counter Items -->
@@ -949,4 +957,48 @@ exchange within the company.
                     </div>
                 </div>
             </section> --}}
+            <section class="faq-section">
+                <!-- Section Spacer -->
+                <div class="pb-20 xl:pb-[130px]">
+                <div class="global-container">
+                    <div class="swiper brand-slider jos swiper-initialized swiper-horizontal swiper-backface-hidden" data-jos_animation="fade" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
+                        <!-- Additional required wrapper -->
+                        <div class="swiper-wrapper" id="swiper-wrapper-e74d24a991e4a028" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-1405px, 0px, 0px); transition-delay: 0ms;">
+                            <!-- Slides -->
+                            <div class="swiper-slide" role="group" aria-label="1 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-1.png" alt="brand-1" width="180" height="38" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="2 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-2.png" alt="brand-2" width="183" height="35" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="3 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-3.png" alt="brand-3" width="172" height="35" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="4 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-4.png" alt="brand-4" width="175" height="30" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide swiper-slide-prev" role="group" aria-label="5 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-5.png" alt="brand-5" width="168" height="36" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide swiper-slide-active" role="group" aria-label="6 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-1.png" alt="brand-1" width="180" height="38" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide swiper-slide-next" role="group" aria-label="7 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-2.png" alt="brand-2" width="183" height="35" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="8 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-3.png" alt="brand-3" width="172" height="35" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="9 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-4.png" alt="brand-4" width="175" height="30" class="max-w-full">
+                            </div>
+                            <div class="swiper-slide" role="group" aria-label="10 / 10" style="width: 176px; margin-right: 105px;">
+                                <img src="assets/img/th-1/team-member-img-5.png" alt="brand-5" width="168" height="36" class="max-w-full">
+                            </div>
+                        </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                </div>
+                </div>
+            </section>
+
 @endsection
