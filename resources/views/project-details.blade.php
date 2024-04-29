@@ -46,6 +46,16 @@
                         <div class="text-2xl font-bold leading-[1.4] -tracking-[1px] md:text-[30px]">
                            {{$data['clients']}}                       </div>
                     </li>
+                    <li class="jos flex flex-col gap-y-2 sm:gap-y-4" data-jos_delay="0.4">
+                        <span class="text-[21px] font-semibold leading-[1.4] text-[#7F8995]">Website</span>
+                        <div class="text-2xl font-bold leading-[1.4] -tracking-[1px] md:text-[30px]">
+                            <a href="{{$data['link']}}" class="flex items-center gap-x-[10px] hover:text-colorOrangyRed">Live preview
+                                <div class="h-9 w-9">
+                                    <img src="{{asset('assets/img/th-1/icon-black-long-arrow-right.svg')}}" alt="icon-black-long-arrow-right" width="35" height="35" class="h-auto w-9" />
+                                </div>
+                            </a>
+                        </div>
+                    </li>
 
                 </ul>
                 <!-- Portfolio Info List -->
