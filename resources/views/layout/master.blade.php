@@ -38,7 +38,7 @@
                 <div class="flex items-center justify-between gap-x-8">
                     <!-- Header Logo -->
                     <a href="/" class="">
-                        <img src="assets/img/2 rapid.png" alt="AIMass"/>
+                        <img src="{{asset('assets/img/2 rapid.png')}}" alt="AIMass"/>
                     </a>
                     <!-- Header Logo -->
 
@@ -128,7 +128,7 @@
                         class="grid gap-x-10 gap-y-[60px] md:grid-cols-2 lg:flex lg:grid-cols-4 lg:justify-between lg:gap-x-20">
                         <!-- Footer Widget Item -->
                         <div class="flex flex-col gap-y-6 md:max-w-xs xl:max-w-[480px]">
-                            <a href="index.html" class="inline-block"><img src="assets/img/1 rapid.png"
+                            <a href="index.html" class="inline-block"><img src="{{asset('assets/img/1 rapid.png')}}"
                                     alt="logo"  /></a>
                             <p>
                                 Our mission is to provide comprehensive and professional solutions
@@ -207,7 +207,7 @@ qualified team of human resources professionals.
                                     <a href="http://www.facebook.com" class="group flex items-center gap-x-3">
                                         <div
                                             class="flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-white bg-opacity-10 transition-all duration-300 group-hover:bg-colorViolet">
-                                            <img src="assets/img/th-1/facebook-icon-white.svg"
+                                            <img src="{{asset('assets/img/th-1/facebook-icon-white.svg')}}"
                                                 alt="facebook-icon-white" width="14" height="14" />
                                         </div>
                                         <span class="inline-block flex-1">Facebook</span>
@@ -217,7 +217,7 @@ qualified team of human resources professionals.
                                     <a href="http://www.twitter.com" class="group flex items-center gap-x-3">
                                         <div
                                             class="flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-white bg-opacity-10 transition-all duration-300 group-hover:bg-colorViolet">
-                                            <img src="assets/img/th-1/twitter-icon-white.svg"
+                                            <img src="{{asset('assets/img/th-1/twitter-icon-white.svg')}}"
                                                 alt="twitter-icon-white" width="14" height="14" />
                                         </div>
                                         <span class="inline-block flex-1">Twitter</span>
@@ -227,7 +227,7 @@ qualified team of human resources professionals.
                                     <a href="http://www.instagram.com" class="group flex items-center gap-x-3">
                                         <div
                                             class="flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-white bg-opacity-10 transition-all duration-300 group-hover:bg-colorViolet">
-                                            <img src="assets/img/th-1/instagram-icon-white.svg"
+                                            <img src="{{asset('assets/img/th-1/instagram-icon-white.svg')}}"
                                                 alt="instagram-icon-white" width="14" height="14" />
                                         </div>
                                         <span class="inline-block flex-1">Instagram</span>
@@ -237,7 +237,7 @@ qualified team of human resources professionals.
                                     <a href="http://www.linkedin.com" class="group flex items-center gap-x-3">
                                         <div
                                             class="flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-white bg-opacity-10 transition-all duration-300 group-hover:bg-colorViolet">
-                                            <img src="assets/img/th-1/linkedin-icon-white.svg"
+                                            <img src="{{asset('assets/img/th-1/linkedin-icon-white.svg')}}"
                                                 alt="linkedin-icon-white" width="14" height="14" />
                                         </div>
                                         <span class="inline-block flex-1">Linkedin</span>

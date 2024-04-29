@@ -200,7 +200,7 @@
                             <div class="">
 
                                 <p class="mb-8 text-lg leading-[1.33] last:mb-0 lg:text-xl xl:text-2xl">
-                                    <span class="font-semibold text-[#381FD1]">Our Vision:</span>
+                                    <span class="font-semibold text-[#381FD1]" style="color: rgb(254 51 10 / var(--tw-text-opacity))">Our Vision:</span>
                                     In Rapid Motion, we aspire to be leaders in the field, transcending local
                                     boundaries to tap into international markets with recruitment and
                                     event organizatio n services that meet Saudi and global standards.
@@ -208,7 +208,7 @@
                                     and compliant services.
                                 </p>
                                 <p class="mb-8 text-lg leading-[1.33] last:mb-0 lg:text-xl xl:text-2xl">
-                                    <span class="font-semibold text-[#381FD1]">Our Mission:</span>
+                                    <span class="font-semibold text-[#381FD1]" style="color: rgb(254 51 10 / var(--tw-text-opacity))">Our Mission:</span>
                                     in the realms of recruitment and event organization. We strive to
                                     achieve our clients› goals by delivering high-quality services and
                                     maximum satisfaction. This is accomplished through a skilled and
@@ -305,7 +305,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-1.svg" alt="icon-black-promo-1" width="60" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Quality
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">
@@ -321,7 +321,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-2.svg" alt="icon-black-promo-1" width="70" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Commitment to Timelines
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">
@@ -337,7 +337,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-3.svg" alt="icon-black-promo-1" width="67" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Professionalism
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">
@@ -351,7 +351,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-3.svg" alt="icon-black-promo-1" width="67" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Credibility
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">
@@ -366,7 +366,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-3.svg" alt="icon-black-promo-1" width="67" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Competitive Pricing
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">
@@ -381,7 +381,7 @@ rate</span>
                                 {{-- <div class="mx-auto mb-[30px] inline-flex h-10 w-auto justify-center md:justify-normal xxl:h-[60px]">
                                     <img src="assets/img/th-3/icon-black-promo-3.svg" alt="icon-black-promo-1" width="67" height="60" class="h-full w-auto">
                                 </div> --}}
-                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl">
+                                <div class="mb-5 font-raleway text-2xl font-bold leading-[1.33] text-black xl:text-3xl" style="color: rgb(254 51 10 / var(--tw-text-opacity))">
                                     Innovation
                                 </div>
                                 <p class="text-lg leading-[1.42] xl:text-[21px]">

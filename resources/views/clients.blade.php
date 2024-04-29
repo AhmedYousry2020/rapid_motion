@@ -47,7 +47,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://biennale.org.sa">
+                                <a href="/project/Diriyah/details">
                                     Diriyah Contemporary Art Biennale</a>
                             </h5>
 
@@ -65,7 +65,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://www.arabnews.com/node/2184481/saudi-arabia">
+                                <a href="/project/Shift22/details">
                                     Shift22</a>
                             </h5>
 
@@ -83,7 +83,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://www.balichwonderstudio.com/brand-experiences/brand-events/alula-on-wheels/">
+                                <a href="/project/Alula-on-wheels/details">
                                     Alula on wheels</a>
                             </h5>
 
@@ -101,7 +101,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/">
+                                <a href="/project/Silence-of-light/details">
                                     Silence of light</a>
                             </h5>
 
@@ -120,7 +120,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://www.experiencealula.com/en/whats-on/festivals/alula-wellness-festival">
+                                <a href="/project/Alula-Wellness-festival/details">
                                     Alula Wellness festival : Five Senses</a>
                             </h5>
 
@@ -138,7 +138,7 @@
                             <!-- Blog Content -->
                             <div class="p-6">
                                 <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                    <a href="https://www.arabnews.com/node/2409621/amp">
+                                    <a href="/project/Saudi Games-Opening-Ceremony/details">
                                         Saudi Games Opening Ceremony 2023</a>
                                 </h5>
 
@@ -156,7 +156,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts">
+                                <a href="/project/ALL-DAY-I DREAM/details">
                                     ALL DAY I DREAM</a>
                             </h5>
 
@@ -174,7 +174,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/">
+                                <a href="/project/RAMZEN-FASHION-SHOW/details">
                                     RAMZEN FASHION SHOW - DIRIYAH</a>
                             </h5>
 
@@ -193,7 +193,7 @@
                         <!-- Blog Content -->
                         <div class="p-6">
                             <h5 class="mb-7 font-clashDisplay font-medium leading-[1.28] tracking-[1px] text-[28] hover:text-colorOrangyRed">
-                                <a href="https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023">
+                                <a href="/project/ALULA-SKIES-FESTIVAL/details">
                                     ALULA SKIES FESTIVAL</a>
                             </h5>
 

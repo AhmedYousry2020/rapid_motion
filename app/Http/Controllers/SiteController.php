@@ -44,6 +44,12 @@ class SiteController extends Controller
     return view('clients');
    }
 
+   public function projectDetails(string $key)
+   {
+    $data = Config('projects.data.'.$key);
+    return view('project-details',compact('data'));
+   }
+
 
    public function contactUs(ContactRequest $request)
    {
