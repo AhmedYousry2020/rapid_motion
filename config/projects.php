@@ -25,7 +25,7 @@
                     "2"=>"2/2.jpg",
                     "3"=>"2/3.jpg"
                 ],
-                "link"=>"",
+                "link"=>"https://www.balichwonderstudio.com/brand-experiences/brand-events/hegra-drone-show-the-silence-of-light/",
             ],
             "Diriyah"=>[
                 "name"=>"DIRIYAH CONTEMPORARY
