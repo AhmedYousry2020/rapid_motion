@@ -11,7 +11,7 @@
                 <div class="breadcrumb-block">
                     <h1 class="breadcrumb-title">Clients</h1>
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>Clients</li>
                     </ul>
                 </div>

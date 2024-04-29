@@ -11,7 +11,7 @@
                 <div class="breadcrumb-block">
                     <h1 class="breadcrumb-title">About Us</h1>
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li>About</li>
                     </ul>
                 </div>
@@ -54,7 +54,7 @@
         <!-- Section Container -->
         <div class="global-container">
             <!-- Counter Scroll -->
-            <ul class="grid grid-cols-1 gap-10 gap-y-5 text-center sm:grid-cols-2 sm:text-left lg:grid-cols-4">
+            <ul class="grid grid-cols-1 gap-5 gap-y-6 text-center sm:grid-cols-2  lg:grid-cols-3">
                 <!-- Counter Items -->
                 <li class="jos" data-jos_delay="0.1" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                     <h3 class="text-3xl text-colorOrangyRed md:text-6xl lg:text-7xl xl:text-[80px]" data-module="countup">
@@ -70,6 +70,14 @@
                         <span class="start-number" data-countup-number="95">20</span>+
                     </h3>
                     <span class="block text-lg font-normal text-black">Agencies Served</span>
+                </li>
+                <!-- Counter Items -->
+                   <!-- Counter Items -->
+                   <li class="jos" data-jos_delay="0.2" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                    <h3 class="text-3xl text-colorOrangyRed md:text-6xl lg:text-4xl xl:text-[80px]" data-module="countup">
+                        <span>5</span>+
+                    </h3>
+                    <span class="block text-lg font-normal text-black">Clients</span>
                 </li>
                 <!-- Counter Items -->
                 <!-- Counter Items -->
@@ -246,7 +254,7 @@ to achieve mutual excellence.
                         <!-- Section Content Block -->
                         <div class="text-lg leading-[1.4] lg:text-[21px]">
                             <p class="mb-7 last:mb-0">
-                                As the Chief AI Officer at Mthemeus, Mr. Abraham is at the
+                                As the Chief AI Officer at Mthemeus, Mr. Fasial is at the
                                 forefront of harnessing the power of artificial
                                 intelligence (AI) to drive innovation and transform our
                                 business landscape.
