@@ -59,7 +59,7 @@
                     <article class="group overflow-hidden rounded-[10px] bg-white shadow-[0_4px_80px_rgba(0,0,0,0.08)] jos" data-jos_delay="0.2" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                         <!-- Blog Image -->
                         <a href="/project/Shift22/details" class="block h-[320px] w-full overflow-hidden rounded-[30px]">
-                            <img src="assets/img/th-1/blog-main-2.png" alt="blog-main-2" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
+                            <img src="assets/img/th-1/team-member-img-4.png" alt="blog-main-2" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                         </a>
                         <!-- Blog Image -->
                         <!-- Blog Content -->
@@ -131,7 +131,7 @@
                           <!-- Blog Post Single Item -->
                           <article class="group overflow-hidden rounded-[10px] bg-white shadow-[0_4px_80px_rgba(0,0,0,0.08)] jos" data-jos_delay="0.3" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                             <!-- Blog Image -->
-                            <a href="/project/Saudi Games-Opening-Ceremony/detail" class="block h-[320px] w-full overflow-hidden rounded-[30px]">
+                            <a href="/project/Saudi Games-Opening-Ceremony/details" class="block h-[320px] w-full overflow-hidden rounded-[30px]">
                                 <img src="assets/img/th-1/team-member-img-2.png" alt="blog-main-3" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                             </a>
                             <!-- Blog Image -->
@@ -168,7 +168,7 @@
                      <article class="group overflow-hidden rounded-[10px] bg-white shadow-[0_4px_80px_rgba(0,0,0,0.08)] jos" data-jos_delay="0.3" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                         <!-- Blog Image -->
                         <a href="/project/RAMZEN-FASHION-SHOW/details" class="block h-[320px] w-full overflow-hidden rounded-[30px]">
-                            <img src="assets/img/th-1/blog-main-2.png" alt="blog-main-3" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
+                            <img src="assets/img/th-1/team-member-img-4.png" alt="blog-main-3" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                         </a>
                         <!-- Blog Image -->
                         <!-- Blog Content -->
@@ -187,7 +187,7 @@
                      <article class="group overflow-hidden rounded-[10px] bg-white shadow-[0_4px_80px_rgba(0,0,0,0.08)] jos" data-jos_delay="0.3" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
                         <!-- Blog Image -->
                         <a href="/project/ALULA-SKIES-FESTIVAL/details" class="block h-[320px] w-full overflow-hidden rounded-[30px]">
-                            <img src="assets/img/th-1/blog-main-4.png" alt="blog-main-3" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
+                            <img src="assets/img/th-1/team-member-img-4.png" alt="blog-main-3" width="416" height="320" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                         </a>
                         <!-- Blog Image -->
                         <!-- Blog Content -->

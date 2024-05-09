@@ -7,7 +7,7 @@
         <!-- Section Container -->
         <div class="global-container">
             <div class="mx-auto max-w-[910px] text-center">
-                <h1 class="mb-[50px]">Create Account</h1>
+                <h1 class="mb-[50px]">Join Us Now</h1>
                 <div class="block rounded-lg bg-white px-[30px] py-[50px] text-left shadow-[0_4px_60px_0_rgba(0,0,0,0.1)] sm:px-10">
                     <!-- Sign Up Form -->
                     <form action="#" method="post" class="flex flex-col gap-y-5">
@@ -84,7 +84,7 @@
                             <!-- Form Single Input -->
                         </div>
                         <button type="submit" class="button mt-7 block rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white">
-                            Create account
+                           Save
                         </button>
                         <!-- Form Group -->
                     </form>

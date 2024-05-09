@@ -32,15 +32,243 @@
             </div>
             <!-- Section Container -->
             <!-- Hero Image -->
-            <div class="jos mx-auto mt-12 max-w-[1500px] px-5 md:mt-20" data-jos_animation="zoom">
+            {{-- <div class="jos mx-auto mt-12 max-w-[1500px] px-5 md:mt-20" data-jos_animation="zoom">
                 <img src="assets/img/th-3/hero-img.jpg" alt="hero-img" width="1500" height="700"
                     class="h-auto w-full" />
-            </div>
+            </div> --}}
             <!-- Hero Image -->
             </div>
             <!-- Section Spacer -->
             </section>
-            <!--...::: Hero Section End :::... -->
+            <section id="section-working-process">
+                <div class="px-5 sm:px-[50px] pb-20 xl:pb-[150px] py-20 xl:py-[130px]">
+                    <div class="relative z-[1] mx-auto max-w-full rounded-[20px] bg-black">
+                        <div class="py-20 xl:py-[130px]">
+                            <!-- Section Container -->
+                            <div class="global-container">
+                                <!-- Section Content Block -->
+                                <div class="mx-auto mb-10 text-center md:mb-16 md:max-w-xl lg:mb-20 lg:max-w-3xl xl:max-w-[856px] jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                                    <h2 class="font-clashDisplay text-4xl font-medium leading-[1.06] text-white sm:text-[44px] lg:text-[56px] xl:text-[75px]">
+                                        Check user reviews using our AI chatbot
+                                    </h2>
+                                </div>
+                                <!-- Section Content Block -->
+
+                                <!-- Testimonial Carousel -->
+                                <!-- Slider main container -->
+                                <div class="swiper testimonial-slider relative z-[1] jos swiper-initialized swiper-horizontal swiper-backface-hidden" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
+                                    <!-- Additional required wrapper -->
+                                    <div class="swiper-wrapper" id="swiper-wrapper-c3b58ab610ecfc978" aria-live="polite">
+                                        <!-- Slides -->
+                                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 2" data-swiper-slide-index="0" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/1.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl font-medium text-white leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “SHIFT 22”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                      <a href="https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx" class="pro">https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">USHERS, CLEANERS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/2.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “SILENCE OF LIGHT”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                       <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro"> https://www.balichwonderstudio.com/brand-experiences/ </a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/3.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “DIRIYAH CONTEMPORARY
+                                                        ART BIENNALE”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://biennale.org.sa/" class="pro" >https://biennale.org.sa/</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">Cleaners, Security, Ushers</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/5.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “ALULA WELLNESS FESTIVAL”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W" class="pro" >https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/7.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “ALL DAY I DREAM
+                                                        ”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts" class="pro" >https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">TRAFFIC MARSHALS, SECURITY,CLEANERS, USHERS, HOSTESS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/6.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “SAUDI GAMES OPENING
+                                                        CEREMONY 2023
+                                                        ”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://www.arabnews.com/node/2409621/amp" class="pro" >https://www.arabnews.com/node/2409621/amp</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">DRESSERS, SECURITY, CLEANERS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/8.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “RAMZEN FASHION SHOW - DIRIYAH
+                                                        ”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/" class="pro" >https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">CLEANERS, RUNNERS, USHERS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/4.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “ALULA ON WHEELS
+                                                        ”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro" >https://www.balichwonderstudio.com/brand-experiences/</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="2 / 2" data-swiper-slide-index="1" style="width: 1300px;">
+                                            <div class="flex flex-col gap-x-16 md:flex-row lg:gap-x-28 items-center xxl:items-baseline xl:gap-x-[134px]">
+                                                <div class="h-auto w-[300px] self-center overflow-hidden rounded-[10px] lg:w-[375px] xl:h-[494px] xl:w-[526px]">
+                                                    <img src="assets/img/th-1/portfolio slider\portfolio slider/9.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
+                                                </div>
+                                                <div class="mt-[30px] flex-1 text-center md:text-left">
+                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                        “ALULA SKIES FESTIVAL
+                                                        ”
+                                                    </div>
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                        <a href="https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023" class="pro" >https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023</a>
+                                                    </p>
+
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                        -STAFF:
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">USHERS, TRAFFIC MARSHALS, CLEANERS, SECURITY</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- If we need navigation buttons -->
+                                    <div class="testimonial-nav">
+                                        <div class="testimonial-nav-prev testimonial-nav-dir" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c3b58ab610ecfc978">
+                                            <img src="assets/img/th-2/icon-black-long-arrow-left.svg" alt="icon-black-long-arrow-left" width="24" height="24">
+                                            <img src="assets/img/th-2/icon-white-long-arrow-left.svg" alt="icon-white-long-arrow-left" width="24" height="24">
+                                        </div>
+                                        <div class="testimonial-nav-next testimonial-nav-dir" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c3b58ab610ecfc978">
+                                            <img src="assets/img/th-2/icon-black-long-arrow-right.svg" alt="icon-black-long-arrow-right" width="24" height="24">
+                                            <img src="assets/img/th-2/icon-white-long-arrow-right.svg" alt="icon-white-long-arrow-right" width="24" height="24">
+                                        </div>
+                                    </div>
+                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                <!-- Testimonial Carousel -->
+                            </div>
+                            <!-- Section Container -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+                  <!--...::: Hero Section End :::... -->
               <!-- our services -->
               <section id="section-service">
                 <!-- Section Spacer -->
@@ -185,7 +413,7 @@
                     <div class="grid items-center gap-10 md:grid-cols-[minmax(0,_1fr)_1.3fr] lg:gap-[60px] xl:gap-x-[94px]">
                         <div class="jos" data-jos_animation="fade-left" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
                             <div class="overflow-hidden rounded-[10px]">
-                                <img src="assets/img/th-3/content-img-1.jpg" alt="content-img-1" width="526" height="550" class="h-auto w-full">
+                                <img src="assets/img/th-1/portfolio-img-3.jpg" alt="content-img-1" width="526" height="550" class="h-auto w-full" style="height: 600px; width:550px">
                             </div>
                         </div>
                         <div class="jos" data-jos_animation="fade-right" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
@@ -866,10 +1094,10 @@ exchange within the company.
                         <ul class="col-1 gap-6 md:columns-2">
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos" data-jos_delay="0.1" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-1.jpg" alt="portfolio-img-1" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
 
                                 </a>
@@ -877,10 +1105,10 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.2" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-2.jpg" alt="portfolio-img-2" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
 
                                 </a>
@@ -888,10 +1116,10 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.3" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-3.jpg" alt="portfolio-img-3" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
 
                                 </a>
@@ -899,30 +1127,30 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos" data-jos_delay="0.4" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-4.jpg" alt="portfolio-img-4" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.5" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-5.jpg" alt="portfolio-img-5" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
                                 </a>
                             </li>
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.6" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="portfolio-details.html" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-6.jpg" alt="portfolio-img-6" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
-                                <a href="portfolio-details.html" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
+                                <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
 
                                 </a>
                             </li>

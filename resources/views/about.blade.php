@@ -38,7 +38,7 @@
 
                 <!-- About Hero Image -->
                 <div class="jos overflow-hidden rounded-3xl" data-jos_animation="zoom">
-                    <img src="assets/img/th-1/about-hero-image.jpg" alt="about-hero-image" width="1296"
+                    <img src="assets/img/th-1/ad.jpg" alt="about-hero-image" width="1296"
                         height="650" class="h-full w-full object-cover" />
                 </div>
                 <!-- About Hero Image -->
@@ -126,7 +126,7 @@ rate</span>
                     class="grid grid-cols-1 items-center gap-12 md:grid-cols-2 xl:grid-cols-[minmax(0,_1.3fr)_1fr]">
                     <!-- Content Left Block -->
                     <div class="jos order-2 overflow-hidden rounded-md" data-jos_animation="fade-left">
-                        <img src="assets/img/th-1/about-image.png" alt="content-image-2" width="526"
+                        <img src="assets/img/th-1/portfolio-img-5.jpg" alt="content-image-2" width="526"
                             height="550" class="h-auto w-full" />
                     </div>
                     <!-- Content Left Block -->
@@ -152,7 +152,7 @@ rate</span>
                                 team spirit and dedication to achieving our clients› goals. We are here to support and assist you in building an exceptional
                                 team and executing unparalleled events. Choose Rapid Motion for a unique experience and a successful partnership.
                             </p>
-                            <a href="contact.html"
+                            <a href="/register"
                                 class="button mt-5 rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white">Get
                                 in touch</a>
                         </div>
@@ -238,82 +238,30 @@ to achieve mutual excellence.
                     <div class="max-w-sm lg:max-w-3xl xl:max-w-[745px]">
                         <h2>Our team consists of a group of talents</h2>
                     </div>
-                    <a href="teams.html" class="button mt-5 rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white">Join
+                    <a href="/register" class="button mt-5 rounded-[50px] border-2 border-black bg-black py-4 text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white">Join
                         our team</a>
                 </div>
                 <!-- Section Content Block -->
 
                 <!-- Team Member List -->
-                <div class="grid items-center gap-x-16 gap-y-16 md:grid-cols-2 lg:grid-cols-[minmax(0,_1.2fr)_auto] xl:gap-x-20 xxl:gap-x-32">
-                    <!-- Team Content Left Block -->
-                    <div class="order-2 md:order-1 jos" data-jos_animation="fade-left" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
-                        <!-- Section Content Block -->
-                        <div class="mb-6">
-                            <h2>FASIAL ALAHAZAZI</h2>
-                        </div>
-                        <!-- Section Content Block -->
-                        <div class="text-lg leading-[1.4] lg:text-[21px]">
-                            <p class="mb-7 last:mb-0">
-                                As the Chief AI Officer at Mthemeus, Mr. Fasial is at the
-                                forefront of harnessing the power of artificial
-                                intelligence (AI) to drive innovation and transform our
-                                business landscape.
-                            </p>
-                            <p class="mb-7 last:mb-0">
-                                With a background in AI tech expert, he is leads our AI
-                                strategy, overseeing the development and implementation of
-                                cutting-edge AI and also machine learning initiatives.
-                                With a passion for technology and a track record of
-                                successful AI projects in our company's journey.
-                            </p>
-                            <p class="mb-7 font-semibold last:mb-0">
-                                Here's an overview of the role and responsibilities of a
-                                Chief AI Officer:
-                            </p>
-                        </div>
-                    </div>
-                    <!-- Team Content Left Block -->
+                <div class="grid items-center" style="justify-content: center">
+
 
                     <!-- team Content Right Block -->
                     <div class="order-1 md:order-2 jos" data-jos_animation="fade-right" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
                         <!-- Team Member Item -->
-                        <div class="rounded-[20px] bg-colorLinenRuffle p-[20px]">
-                            <div class="xl:h[300px] w-full overflow-hidden rounded-[20px] xxl:h-[400px]">
-                                <img src="assets/img/th-1/team-member-img-1.jpg" alt="team-member-img-1" width="376" height="400" class="h-full w-full object-cover">
-                            </div>
+                        <div class="rounded-[20px] bg-colorLinenRuffle p-[20px]" style="
+    /* WIDTH: 50%; */
+">
+
 
                             <div class="mt-5">
-                                <div class="mt-3 flex flex-col justify-between gap-3 xxl:flex-row xxl:flex-wrap xxl:items-center">
-                                    <h4 class="text-[21px] leading-[1.33]">
-                                        CEO
-                                    </h4>
+                                <a href="team-details.html" class="font-dmSans text-[26px] leading-[1.33] hover:text-colorOrangyRed xxl:text-[30px]">
+                                    FASIAL ALAHAZAZI
+                                </a>
+                                <div class="mt-3 flex flex-col justify-between gap-3 xxl:flex-wrap xxl:items-center">
+                                    <span class="text-[21px]">CEO</span>
 
-                                    <ul class="mt-auto flex gap-x-[15px]">
-                                        <li>
-                                            <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                                <img src="assets/img/th-1/facebook-icon-white.svg" alt="facebook" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                                <img src="assets/img/th-1/facebook-icon-black.svg" alt="facebook" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                                <img src="assets/img/th-1/twitter-icon-white.svg" alt="twitter" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                                <img src="assets/img/th-1/twitter-icon-black.svg" alt="twitter" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                                <img src="assets/img/th-1/linkedin-icon-white.svg" alt="linkedin" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                                <img src="assets/img/th-1/linkedin-icon-black.svg" alt="linkedin" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                                <img src="assets/img/th-1/instagram-icon-white.svg" alt="instagram" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                                <img src="assets/img/th-1/instagram-icon-black.svg" alt="instagram" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                            </a>
-                                        </li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -326,9 +274,7 @@ to achieve mutual excellence.
 
                     <!-- Team Member Item -->
                     <li class="rounded-[20px] bg-colorLinenRuffle p-[20px] jos" data-jos_animation="flip" data-jos_delay="0.4" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
-                        <div class="xl:h[300px] w-full overflow-hidden rounded-[20px] xxl:h-[400px]">
-                            <img src="assets/img/th-1/team-member-img-4.jpg" alt="team-member-img-4" width="376" height="400" class="h-full w-full object-cover">
-                        </div>
+
 
                         <div class="mt-5">
                             <a href="team-details.html" class="font-dmSans text-[26px] leading-[1.33] hover:text-colorOrangyRed xxl:text-[30px]">
@@ -336,41 +282,14 @@ to achieve mutual excellence.
                             </a>
                             <div class="mt-3 flex flex-col justify-between gap-3 xxl:flex-row xxl:flex-wrap xxl:items-center">
                                 <span class="text-[21px]">GENERAL MANAGER</span>
-                                <ul class="mt-auto flex gap-x-[15px]">
-                                    <li>
-                                        <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/facebook-icon-white.svg" alt="facebook" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/facebook-icon-black.svg" alt="facebook" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/twitter-icon-white.svg" alt="twitter" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/twitter-icon-black.svg" alt="twitter" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/linkedin-icon-white.svg" alt="linkedin" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/linkedin-icon-black.svg" alt="linkedin" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/instagram-icon-white.svg" alt="instagram" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/instagram-icon-black.svg" alt="instagram" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                </ul>
+
                             </div>
                         </div>
                     </li>
                     <!-- Team Member Item -->
                     <!-- Team Member Item -->
                     <li class="rounded-[20px] bg-colorLinenRuffle p-[20px] jos" data-jos_animation="flip" data-jos_delay="0.5" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
-                        <div class="xl:h[300px] w-full overflow-hidden rounded-[20px] xxl:h-[400px]">
-                            <img src="assets/img/th-1/team-member-img-5.jpg" alt="team-member-img-5" width="376" height="400" class="h-full w-full object-cover">
-                        </div>
+
 
                         <div class="mt-5">
                             <a href="team-details.html" class="font-dmSans text-[26px] leading-[1.33] hover:text-colorOrangyRed xxl:text-[30px]">
@@ -378,41 +297,13 @@ to achieve mutual excellence.
                             </a>
                             <div class="mt-3 flex flex-col justify-between gap-3 xxl:flex-row xxl:flex-wrap xxl:items-center">
                                 <span class="text-[21px]">PROJECT MANAGER</span>
-                                <ul class="mt-auto flex gap-x-[15px]">
-                                    <li>
-                                        <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/facebook-icon-white.svg" alt="facebook" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/facebook-icon-black.svg" alt="facebook" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/twitter-icon-white.svg" alt="twitter" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/twitter-icon-black.svg" alt="twitter" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/linkedin-icon-white.svg" alt="linkedin" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/linkedin-icon-black.svg" alt="linkedin" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/instagram-icon-white.svg" alt="instagram" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/instagram-icon-black.svg" alt="instagram" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                </ul>
+
                             </div>
                         </div>
                     </li>
                     <!-- Team Member Item -->
                     <!-- Team Member Item -->
                     <li class="rounded-[20px] bg-colorLinenRuffle p-[20px] jos" data-jos_animation="flip" data-jos_delay="0.6" data-jos_once="1" data-jos_counter="1" data-jos_scrolldirection="down">
-                        <div class="xl:h[300px] w-full overflow-hidden rounded-[20px] xxl:h-[400px]">
-                            <img src="assets/img/th-1/team-member-img-6.jpg" alt="team-member-img-6" width="376" height="400" class="h-full w-full object-cover">
-                        </div>
 
                         <div class="mt-5">
                             <a href="team-details.html" class="font-dmSans text-[26px] leading-[1.33] hover:text-colorOrangyRed xxl:text-[30px]">
@@ -420,32 +311,7 @@ to achieve mutual excellence.
                             </a>
                             <div class="mt-3 flex flex-col justify-between gap-3 xxl:flex-row xxl:flex-wrap xxl:items-center">
                                 <span class="text-[21px]">OPERATION MANAGER</span>
-                                <ul class="mt-auto flex gap-x-[15px]">
-                                    <li>
-                                        <a href="http://www.facebook.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/facebook-icon-white.svg" alt="facebook" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/facebook-icon-black.svg" alt="facebook" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.twitter.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/twitter-icon-white.svg" alt="twitter" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/twitter-icon-black.svg" alt="twitter" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/linkedin-icon-white.svg" alt="linkedin" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/linkedin-icon-black.svg" alt="linkedin" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="http://www.instagram.com" target="_blank" rel="noopener noreferrer" class="group relative flex h-[30px] w-[30px] items-center justify-center rounded-[50%] bg-black hover:bg-colorOrangyRed">
-                                            <img src="assets/img/th-1/instagram-icon-white.svg" alt="instagram" width="14" height="14" class="opacity-100 group-hover:opacity-0">
-                                            <img src="assets/img/th-1/instagram-icon-black.svg" alt="instagram" width="14" height="14" class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100">
-                                        </a>
-                                    </li>
-                                </ul>
+
                             </div>
                         </div>
                     </li>

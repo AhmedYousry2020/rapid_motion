@@ -84,7 +84,7 @@
                     <!-- Header User Event -->
                     <div class="flex items-center gap-6">
                         <a href="/register"
-                            class="button hidden rounded-[50px] border-black bg-black text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white lg:inline-block"><i class="fa-solid fa-plus"></i>Registeration</a>
+                            class="button hidden rounded-[50px] border-black bg-black text-white after:bg-colorOrangyRed hover:border-colorOrangyRed hover:text-white lg:inline-block"><i class="fa-solid fa-plus"></i>Join Us</a>
                         <!-- Responsive Offcanvas Menu Button -->
                         <div class="block lg:hidden">
                             <button id="openBtn" class="hamburger-menu mobile-menu-trigger">
@@ -185,7 +185,7 @@ qualified team of human resources professionals.
                             <ul class="flex flex-col gap-y-[10px] capitalize">
                                 <li>
                                     <a href="/register"
-                                        class="transition-all duration-300 ease-linear hover:text-colorOrangyRed">Registeration</a>
+                                        class="transition-all duration-300 ease-linear hover:text-colorOrangyRed">Start Your Journey?</a>
                                 </li>
 
 

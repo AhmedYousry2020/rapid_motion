@@ -2885,10 +2885,13 @@ h5 {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 300ms;
 }
+.global-container .pro:hover{
+    color: rgb(254 51 10 / var(--tw-text-opacity));
 
+}
 .testimonial-nav-dir:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(50 28 164 / var(--tw-bg-opacity));
+  background-color: rgb(254 51 10 / var(--tw-text-opacity));
 }
 
 .testimonial-nav-dir img {
