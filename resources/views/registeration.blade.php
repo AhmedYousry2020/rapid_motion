@@ -69,7 +69,14 @@
                                 <input type="text" name="signup-email" id="signup-email" placeholder="" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
                             </div>
                             <!-- Form Single Input -->
-
+ <!-- Form Single Input -->
+                               <!-- Form Single Input -->
+                               <div class="flex flex-col gap-y-[10px]">
+                                <label for="signup-email" class="text-lg font-bold leading-[1.6]">
+                                    File</label>
+                                <input type="file" name="signup-email" id="signup-email" placeholder="saudi" class="rounded-[10px] border border-gray-300 bg-white px-6 py-[18px] font-bold text-black outline-none transition-all placeholder:text-slate-500 focus:border-colorOrangyRed" required="">
+                            </div>
+                            <!-- Form Single Input -->
                             <!-- Form Single Input -->
                             <div class="flex gap-x-8 gap-y-[10px]">
                                 <input type="checkbox" class="relative appearance-none after:absolute after:left-0 after:top-[6px] after:h-4 after:w-4 after:rounded-[3px] after:border after:border-[#7F8995] after:bg-white after:text-white after:transition-all after:delay-300 checked:after:border-colorOrangyRed checked:after:bg-colorOrangyRed checked:after:bg-[url(../img/th-1/icon-white-checkmark-filled.svg)]" name="signup-check" id="signup-check" required="">

@@ -66,16 +66,16 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/1.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl font-medium text-white leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 text-2xl font-semibold font-medium text-white leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “SHIFT 22”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                       <a href="https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx" class="pro">https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx</a>
                                                     </p>
 
-                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white">
+                                                    <div class="text-[21px] font-semibold leading-[1.42] text-white ">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">USHERS, CLEANERS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, CLEANERS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -86,16 +86,16 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/2.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5  text-2xl text-white font-semibold font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “SILENCE OF LIGHT”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                        <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro"> https://www.balichwonderstudio.com/brand-experiences/ </a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -106,17 +106,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/3.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5  text-2xl text-white font-semibold font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “DIRIYAH CONTEMPORARY
                                                         ART BIENNALE”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://biennale.org.sa/" class="pro" >https://biennale.org.sa/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">Cleaners, Security, Ushers</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">Cleaners, Security, Ushers</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -127,16 +127,16 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/5.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5  font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “ALULA WELLNESS FESTIVAL”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W" class="pro" >https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -147,17 +147,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/7.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “ALL DAY I DREAM
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts" class="pro" >https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">TRAFFIC MARSHALS, SECURITY,CLEANERS, USHERS, HOSTESS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">TRAFFIC MARSHALS, SECURITY,CLEANERS, USHERS, HOSTESS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -168,18 +168,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/6.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “SAUDI GAMES OPENING
-                                                        CEREMONY 2023
-                                                        ”
+                                                        CEREMONY 2023”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.arabnews.com/node/2409621/amp" class="pro" >https://www.arabnews.com/node/2409621/amp</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">DRESSERS, SECURITY, CLEANERS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">DRESSERS, SECURITY, CLEANERS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -190,17 +189,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/8.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “RAMZEN FASHION SHOW - DIRIYAH
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/" class="pro" >https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">CLEANERS, RUNNERS, USHERS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">CLEANERS, RUNNERS, USHERS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -211,17 +210,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/4.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “ALULA ON WHEELS
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro" >https://www.balichwonderstudio.com/brand-experiences/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -232,17 +231,17 @@
                                                     <img src="assets/img/th-1/portfolio slider\portfolio slider/9.jpg" alt="testimonial-img-1" width="526" height="494" class="h-full w-full object-cover" loading="lazy">
                                                 </div>
                                                 <div class="mt-[30px] flex-1 text-center md:text-left">
-                                                    <div class="mb-5 font-clashDisplay text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
+                                                    <div class="mb-5 font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “ALULA SKIES FESTIVAL
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white">
+                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023" class="pro" >https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
                                                         -STAFF:
-                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white">USHERS, TRAFFIC MARSHALS, CLEANERS, SECURITY</span>
+                                                        <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, TRAFFIC MARSHALS, CLEANERS, SECURITY</span>
                                                     </div>
                                                 </div>
                                             </div>
