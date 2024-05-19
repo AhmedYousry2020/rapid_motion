@@ -227,7 +227,7 @@ to achieve mutual excellence.
         </div>
         <!-- Section Spacer -->
     </section>
-
+{{--
     <section id="team-section">
         <!-- Section Spacer -->
         <div class="py-20 xl:py-[130px]">
@@ -322,5 +322,5 @@ to achieve mutual excellence.
             <!-- Section Container -->
         </div>
         <!-- Section Spacer -->
-    </section>
+    </section> --}}
 @endsection

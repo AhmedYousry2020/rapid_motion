@@ -57,7 +57,7 @@
                                         534917678</a>
                                         <a href="tel:+0123456789"
                                         class="text-2xl font-normal leading-loose hover:text-colorOrangyRed lg:text-3xl">+(966)
-                                        53696471</a>
+                                        536964671</a>
                                 </li>
                                 <li class="flex flex-col gap-y-4 text-2xl font-bold">
                                     Location:
