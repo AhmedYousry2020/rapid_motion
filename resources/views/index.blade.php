@@ -74,7 +74,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white ">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, CLEANERS</span>
                                                     </div>
                                                 </div>
@@ -94,7 +94,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
@@ -115,7 +115,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">Cleaners, Security, Ushers</span>
                                                     </div>
                                                 </div>
@@ -135,7 +135,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
@@ -156,7 +156,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">TRAFFIC MARSHALS, SECURITY,CLEANERS, USHERS, HOSTESS</span>
                                                     </div>
                                                 </div>
@@ -177,7 +177,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">DRESSERS, SECURITY, CLEANERS</span>
                                                     </div>
                                                 </div>
@@ -198,7 +198,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">CLEANERS, RUNNERS, USHERS</span>
                                                     </div>
                                                 </div>
@@ -219,7 +219,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
                                                     </div>
                                                 </div>
@@ -240,7 +240,7 @@
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
-                                                        -STAFF:
+
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, TRAFFIC MARSHALS, CLEANERS, SECURITY</span>
                                                     </div>
                                                 </div>
