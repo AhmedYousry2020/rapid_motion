@@ -185,7 +185,7 @@ qualified team of human resources professionals.
                             <ul class="flex flex-col gap-y-[10px] capitalize">
                                 <li>
                                     <a href="/register"
-                                        class="transition-all duration-300 ease-linear hover:text-colorOrangyRed">Start Your Journey?</a>
+                                        class="transition-all duration-300 ease-linear hover:text-colorOrangyRed">Start Your Journey</a>
                                 </li>
 
 
@@ -281,6 +281,12 @@ qualified team of human resources professionals.
 
 <!-- Main js -->
 <script src="{{asset('assets/js/main.js')}}"></script>
+<script>
+    // Disable the default click behavior of the link
+    function disableLink(event) {
+        event.preventDefault(); // Prevent the default action (i.e., navigating to the URL)
+    }
+</script>
 </body>
 
 </html>

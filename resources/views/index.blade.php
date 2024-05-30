@@ -47,11 +47,7 @@
                             <!-- Section Container -->
                             <div class="global-container">
                                 <!-- Section Content Block -->
-                                <div class="mx-auto mb-10 text-center md:mb-16 md:max-w-xl lg:mb-20 lg:max-w-3xl xl:max-w-[856px] jos" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                                    <h2 class="font-clashDisplay text-4xl font-medium leading-[1.06] text-white sm:text-[44px] lg:text-[56px] xl:text-[75px]">
-                                        Check user reviews using our AI chatbot
-                                    </h2>
-                                </div>
+
                                 <!-- Section Content Block -->
 
                                 <!-- Testimonial Carousel -->
@@ -69,14 +65,14 @@
                                                     <div class="mb-5 text-2xl font-semibold font-medium text-white leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “SHIFT 22”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                       <a href="https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx" class="pro">https://www.arabnews.com/NODE/2184481/SAUDI-ARABIAx</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white ">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, CLEANERS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -89,14 +85,14 @@
                                                     <div class="mb-5  text-2xl text-white font-semibold font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “SILENCE OF LIGHT”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                        <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro"> https://www.balichwonderstudio.com/brand-experiences/ </a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -110,14 +106,14 @@
                                                         “DIRIYAH CONTEMPORARY
                                                         ART BIENNALE”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://biennale.org.sa/" class="pro" >https://biennale.org.sa/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">Cleaners, Security, Ushers</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -130,14 +126,14 @@
                                                     <div class="mb-5  font-semibold text-2xl text-white font-medium leading-[1.28] tracking-[1px] lg:mb-9 lg:text-[28px]">
                                                         “ALULA WELLNESS FESTIVAL”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W" class="pro" >https://www.experiencealula.com/EN/WHATS-ON/FESTIVALS/ALULA-W</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -151,14 +147,14 @@
                                                         “ALL DAY I DREAM
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts" class="pro" >https://tickets.experiencealula.com/en/experiences/all-day-i-dream?groupAlias=concerts</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">TRAFFIC MARSHALS, SECURITY,CLEANERS, USHERS, HOSTESS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -172,14 +168,14 @@
                                                         “SAUDI GAMES OPENING
                                                         CEREMONY 2023”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.arabnews.com/node/2409621/amp" class="pro" >https://www.arabnews.com/node/2409621/amp</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">DRESSERS, SECURITY, CLEANERS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -193,14 +189,14 @@
                                                         “RAMZEN FASHION SHOW - DIRIYAH
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/" class="pro" >https://aeworld.com/fashion/saudi-brand-ramzen-hosts-an-exclusive-fashion-show-in-diriyah/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">CLEANERS, RUNNERS, USHERS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -214,14 +210,14 @@
                                                         “ALULA ON WHEELS
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.balichwonderstudio.com/brand-experiences/" class="pro" >https://www.balichwonderstudio.com/brand-experiences/</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">HOSTESS ,USHERS, CLEANERS, SECURITY, TRAFFIC MARSHALS</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -235,14 +231,14 @@
                                                         “ALULA SKIES FESTIVAL
                                                         ”
                                                     </div>
-                                                    <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
+                                                    {{-- <p class="mb-9 leading-[1.33] lg:mb-[50px] lg:text-lg xl:text-1xl text-white font-semibold">
                                                         <a href="https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023" class="pro" >https://www.factmagazines.com/saudi-arabia/alula/things-to-do-alula/everything-you-need-to-know-about-alula-skies-festival-2023</a>
                                                     </p>
 
                                                     <div class="text-[21px] font-semibold leading-[1.42] text-white">
 
                                                         <span class="mt-1 block text-lg font-normal leading-[1.66] text-white font-semibold">USHERS, TRAFFIC MARSHALS, CLEANERS, SECURITY</span>
-                                                    </div>
+                                                    </div> --}}
                                                 </div>
                                             </div>
                                         </div>
@@ -1093,7 +1089,7 @@ exchange within the company.
                         <ul class="col-1 gap-6 md:columns-2">
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos" data-jos_delay="0.1" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-1.jpg" alt="portfolio-img-1" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
@@ -1104,7 +1100,7 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.2" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-2.jpg" alt="portfolio-img-2" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
@@ -1115,7 +1111,7 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.3" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-3.jpg" alt="portfolio-img-3" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
@@ -1126,7 +1122,7 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos" data-jos_delay="0.4" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="1" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-4.jpg" alt="portfolio-img-4" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
@@ -1136,7 +1132,7 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.5" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-5.jpg" alt="portfolio-img-5" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
@@ -1146,7 +1142,7 @@ exchange within the company.
                             <!-- Portfolio Item -->
                             <!-- Portfolio Item -->
                             <li class="group mb-10 flex flex-col gap-y-6 last:mb-0 jos jos-fade-up" data-jos_delay="0.6" data-jos_once="1" data-jos_animation="fade-up" data-jos_counter="0" data-jos_scrolldirection="down">
-                                <a href="" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
+                                <a href="" onclick="disableLink(event)" class="block w-full overflow-hidden rounded-[10px] group-odd:h-80 group-even:h-96 lg:group-odd:h-[550px] lg:group-even:h-[750px]">
                                     <img src="assets/img/th-1/portfolio-img-6.jpg" alt="portfolio-img-6" width="636" height="550" class="h-full w-full scale-100 object-cover transition-all duration-300 group-hover:scale-105">
                                 </a>
                                 <a href="" class="flex items-center justify-between gap-x-6 text-xl font-bold leading-[1.4] hover:text-colorOrangyRed lg:gap-x-14 lg:text-2xl xl:gap-x-20 xl:text-3xl">
